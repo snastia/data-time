@@ -47,8 +47,8 @@ const text = document.querySelector("a")
 // satSun('2023-08-06')
 
 
-function days(day1, day2) {
-    const dates = new Date()
+// function days(day1, day2) {
+//     const dates = new Date()
 
     
-}
+// }
